@@ -2,5 +2,5 @@
 
 Aplicación realizada con React.
 
-![Ejemplo](./img/readme.png)
+![Ejemplo](./src/img/readme.png)
 
