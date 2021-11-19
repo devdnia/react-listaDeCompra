@@ -1,5 +1,8 @@
 body {
     padding: 50px;
+    background-color: rgb(243, 241, 241);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 }
 
 p{
@@ -15,3 +18,4 @@ p{
 .complete{
     text-decoration: line-through;
 }
+
