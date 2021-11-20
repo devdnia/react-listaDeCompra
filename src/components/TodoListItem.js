@@ -5,7 +5,8 @@ export const TodoListItem = ( {todo, index, handleDelete, handleToogle} ) => {
     return (
         <li
              key={ todo.id }
-             className='list-group-item'
+             className='list-group-item ' 
+
         > 
              <p 
                 className={ `${ todo.done && 'complete'}`}

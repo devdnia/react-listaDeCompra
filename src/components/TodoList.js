@@ -5,7 +5,7 @@ import { TodoListItem } from './TodoListItem'
 
 export const TodoList = ( {todos, handleDelete, handleToogle}) => {
     return (
-        <ul className='list-group list-group-flush'>
+        <ul className='list-group list-group-flush '>
             {
                 todos.map( ( todo, i ) =>(
                     <TodoListItem 
